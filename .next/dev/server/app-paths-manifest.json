@@ -1,0 +1,12 @@
+{
+  "/about/page": "app/about/page.js",
+  "/page": "app/page.js",
+  "/regions/page": "app/regions/page.js",
+  "/regions/seoul/page": "app/regions/seoul/page.js",
+  "/regions/seoul/seongsu/page": "app/regions/seoul/seongsu/page.js",
+  "/reviews/page": "app/reviews/page.js",
+  "/situations/alone/page": "app/situations/alone/page.js",
+  "/situations/date/page": "app/situations/date/page.js",
+  "/situations/page": "app/situations/page.js",
+  "/situations/rainy/page": "app/situations/rainy/page.js"
+}
